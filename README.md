@@ -60,8 +60,3 @@ agent.invoke("Galerideki tüm araçları listele.")
 - **LangChain & LlamaIndex** 🧠
 - **OpenAI API** 🤖
 
-## 📜 Lisans
-Bu proje **MIT Lisansı** ile sunulmaktadır.
-
-💡 **Katkıda bulunmak ister misin?** Pull request'leri bekliyoruz! 🚀
-
