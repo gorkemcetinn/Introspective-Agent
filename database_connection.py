@@ -18,7 +18,7 @@ class GaleriTools(BaseToolSpec):
         cursor = self.connection.cursor()
         cursor.execute("SELECT * FROM arabalar")
         rows = cursor.fetchall()
-        return rows  # Pandas DataFrame yerine direkt liste döndürüyoruz.
+        return rows  
 
     def add_car(self, marka: str, model: str, yil: int, fiyat: int, renk: str,plaka: str):
         """Yeni araç ekler."""
